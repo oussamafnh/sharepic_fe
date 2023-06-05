@@ -1,0 +1,29 @@
+.login {
+    display: flex;
+    align-items: center;
+}
+
+.login .login_content {
+    margin: auto;
+    margin-top: 35vh;
+}
+
+.login .login_content input{
+    width: 100%;
+    height: 40px;
+    margin: 10px;
+}
+.login .login_content button{
+    width: 100%;
+    height: 40px;
+    margin: 10px;
+    cursor: pointer;
+}
+.login .login_content p{
+    margin: 10px;
+}
+
+.login .login_content p a{
+    color: rgba(0, 0, 0, 0.449);
+    text-decoration: none;
+}

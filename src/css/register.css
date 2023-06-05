@@ -1,0 +1,29 @@
+.register {
+    display: flex;
+    align-items: center;
+}
+
+.register .register_content {
+    margin: auto;
+    margin-top: 25vh;
+}
+
+.register .register_content input{
+    width: 100%;
+    height: 40px;
+    margin: 10px;
+}
+.register .register_content button{
+    width: 100%;
+    height: 40px;
+    margin: 10px;
+    cursor: pointer;
+}
+.register .register_content p{
+    margin: 10px;
+}
+
+.register .register_content p a{
+    color: rgba(0, 0, 0, 0.449);
+    text-decoration: none;
+}
